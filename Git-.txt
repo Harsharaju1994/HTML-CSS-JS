@@ -1,0 +1,21 @@
+
+git init
+
+git status
+
+git add .
+
+git commit -m "comment"
+
+git log
+
+git branch -M <name>
+
+git remote add origin <link>
+
+git push -u origin <name>
+
+
+Backup
+Version Control
+public access
