@@ -1,0 +1,63 @@
+Version control system
+Centerlized Version control system
+
+
+Local repository
+Remote repository 
+
+Git --version
+Git config
+Git config --global --list
+Git config --global user.name " "
+Git config --global user.email " "
+---3---
+Git init
+Git status
+Git init -b main
+Git add .
+Git commit -m " "
+Git log
+Git commit -a -m " "
+Git diff
+Git diff --staged
+Git rm --cashed file name
+Echo "#git-course" >>README.md
+Cat README.md
+Git branch -M main
+Git remote add origin link
+ssh-keygen -o
+Git push -u origin main
+
+Git remote -v
+Tagging:-
+Annotated Tagging
+Lightweight Tagging
+
+Git tag
+Git tag -a v1.0 -m "first release"
+Git show v1.0
+Git push origin v1.0
+
+CLONE
+
+Git clone link
+Git log
+Git log --pretty=online
+Git remote -v
+
+BRANCH
+git checkout -b name
+Git branch
+Git switch name
+
+DELETE
+git switch -c another name
+Git branch --all
+Git switch -
+Git branch -d name
+
+Git push origin future1
+
+MERGE
+git merge feature1
+Git pull origin main
